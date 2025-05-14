@@ -12,3 +12,11 @@
     "start": "node app.js"
   }
 }
+
+{
+  "name": "teraplayer-proxy",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
